@@ -1,5 +1,5 @@
 import java.util.concurrent.RecursiveTask;
-
+//Комментарий
 public class MyFork extends RecursiveTask<Long> { // Fork - развилка
 
 
